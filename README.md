@@ -3,7 +3,6 @@
 This is a simple number guessing game written in Python. The program generates a random number between 1 and 100, and the player has to guess the correct number within a limited number of attempts.
 
 ## How to Play
-
 1. Run the Python script guess_number_game.py.
 2. The program will display a welcome message along with the game logo(logo generated from ASCII).
 3. You will be prompted to choose a difficulty level: 'easy' or 'hard'.
@@ -13,7 +12,6 @@ This is a simple number guessing game written in Python. The program generates a
 7. If you guess the number correctly within the allotted attempts, you win. Otherwise, you lose the game.
 
 ## Requirements
-
 Python 3.x
 
 ## Usage
@@ -21,9 +19,6 @@ Python 3.x
 2. Navigate to the directory containing the guess_number_game.py file.
 3. Run the script using the command python guess_number_game.py.
 4. Follow the on-screen instructions to play the game.
-
-## Author
-RUI WANG
 
 ## License
 This project is licensed under the MIT License.
